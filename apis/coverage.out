@@ -1,0 +1,20 @@
+mode: set
+dragondarkon/customers-api/apis/customer.go:20.58,22.52 2 1
+dragondarkon/customers-api/apis/customer.go:22.52,28.3 2 0
+dragondarkon/customers-api/apis/customer.go:30.2,30.57 1 1
+dragondarkon/customers-api/apis/customer.go:30.57,36.3 2 1
+dragondarkon/customers-api/apis/customer.go:37.2,37.39 1 1
+dragondarkon/customers-api/apis/customer.go:40.56,42.16 2 1
+dragondarkon/customers-api/apis/customer.go:42.16,48.3 2 1
+dragondarkon/customers-api/apis/customer.go:49.2,49.34 1 1
+dragondarkon/customers-api/apis/customer.go:52.55,55.16 3 1
+dragondarkon/customers-api/apis/customer.go:55.16,61.3 2 1
+dragondarkon/customers-api/apis/customer.go:62.2,62.33 1 1
+dragondarkon/customers-api/apis/customer.go:65.58,67.52 2 1
+dragondarkon/customers-api/apis/customer.go:67.52,73.3 2 0
+dragondarkon/customers-api/apis/customer.go:75.2,75.57 1 1
+dragondarkon/customers-api/apis/customer.go:75.57,81.3 2 1
+dragondarkon/customers-api/apis/customer.go:82.2,82.33 1 1
+dragondarkon/customers-api/apis/customer.go:85.58,87.48 2 1
+dragondarkon/customers-api/apis/customer.go:87.48,93.3 2 1
+dragondarkon/customers-api/apis/customer.go:94.2,94.32 1 1
